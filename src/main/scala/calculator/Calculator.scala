@@ -11,7 +11,9 @@ final case class Divide(a: Expr, b: Expr) extends Expr
 object Calculator extends CalculatorInterface {
   def computeValues(
       namedExpressions: Map[String, Signal[Expr]]): Map[String, Signal[Double]] = {
+    // scalafix:off
     var result = Map[String, Signal[Double]]()
+    // scalafix:on
     for ((k, v) <- namedExpressions) {
       result += (k -> Signal(eval(v(), namedExpressions)))
     }

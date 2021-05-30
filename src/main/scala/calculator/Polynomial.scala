@@ -10,7 +10,9 @@ object Polynomial extends PolynomialInterface {
       c: Signal[Double], delta: Signal[Double]): Signal[Set[Double]] = {
     val delta = computeDelta(a, b, c)
     Signal{
+      // scalafix:off
       var result = Set[Double]()
+      // scalafix:on
       if (delta() >= 0) {
         result += ((-b() + Math.sqrt(delta())) / (2 * a()))
         result += ((-b() - Math.sqrt(delta())) / (2 * a()))
