@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b9f0a71-9987-4cec-8e32-0291f438acd9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1tEBeDo9WFJnyVmuNfqeMrRieKp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-calculator" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-design-week5-calculator [file:/Users/janjan_uary/Downloads/Study-Scala/scala-design-week5-calculator/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="webUI [file:/Users/janjan_uary/Downloads/Study-Scala/scala-design-week5-calculator/]" />
+                <option name="path" value="$PROJECT_DIR$/web-ui" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="shared-sources" />
+                <option name="path" value="$PROJECT_DIR$/src/main/scala/calculator" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-calculator-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1336039959" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../SparkScalaCourse" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-design-week1-quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-design-week2-streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-design-week3-codecs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week1-recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week2-funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week3-objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week4-patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week6-forcomp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b9f0a71-9987-4cec-8e32-0291f438acd9" name="Default Changelist" comment="" />
+      <created>1622324461976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622324461976</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1622324482031">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="534" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.873@0.23.1440.873" timestamp="1622324482031" />
+    <state x="541" y="223" width="673" height="472" key="find.popup" timestamp="1622333843166">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="541" y="223" width="673" height="472" key="find.popup/0.23.1440.873@0.23.1440.873" timestamp="1622333843166" />
+  </component>
+</project>

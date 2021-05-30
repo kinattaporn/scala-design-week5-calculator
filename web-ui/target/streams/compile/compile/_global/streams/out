@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/janjan_uary/Downloads/Study-Scala/scala-design-week5-calculator/web-ui/../src/main/scala/calculator/Polynomial.scala:15:16: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Set[Double][0m
+[0m[[0m[31merror[0m] [0m[0m        result += ((-b() - math.sqrt(computeDelta(a, b, c)())) / (2 * a()))[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
